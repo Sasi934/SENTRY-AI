@@ -1,0 +1,9 @@
+==== CONJUNCTION ALERT ====
+Time: 2026-02-21 06:59:12.436076
+Satellite 1: DummySat-1
+Satellite 2: DummySat-2
+Current Distance: 2642.17 km
+Predicted TCA: 27.86 km
+Collision Probability: 1.00
+Recommendation: -10 m/s tangential burn (New Sep ≈ 2311.3 km)
+============================
